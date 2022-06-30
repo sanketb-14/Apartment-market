@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Apartment-Market
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+find the apartment or list your apartment for sale or rent
+project based on react and Firebase
 
 ## Available Scripts
 
